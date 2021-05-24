@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataInjestion.Sql", "DataInjestion.Sql\DataInjestion.Sql.csproj", "{C9CFD4BE-293C-456B-BB5E-68B13F12D1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataInjestion.Sql.Test", "DataInjestion.Sql.Test\DataInjestion.Sql.Test.csproj", "{58107D7F-34D5-4A19-B920-9DCA680FFCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9CFD4BE-293C-456B-BB5E-68B13F12D1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CFD4BE-293C-456B-BB5E-68B13F12D1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CFD4BE-293C-456B-BB5E-68B13F12D1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CFD4BE-293C-456B-BB5E-68B13F12D1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58107D7F-34D5-4A19-B920-9DCA680FFCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58107D7F-34D5-4A19-B920-9DCA680FFCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58107D7F-34D5-4A19-B920-9DCA680FFCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58107D7F-34D5-4A19-B920-9DCA680FFCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8EFDD7-F588-433A-99C4-5BF7D94CB6B2}
+	EndGlobalSection
+EndGlobal
